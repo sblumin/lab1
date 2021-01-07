@@ -11,9 +11,20 @@
 
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
-body {
-     border: 1px dotted gray;
-     padding: 20px;
+h1 {
+     color: #AF77F4;
+}
+
+p {
+     color: #8177F4;
+}
+
+h4 {
+     color: #5148DD;
+}
+
+.project {
+     margin-left: 20px;
 }
 
 .jumbotron {
